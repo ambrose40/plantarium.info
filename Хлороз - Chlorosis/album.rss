@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Хлороз - Chlorosis</title>
+   	<link>..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%A5%D0%BB%D0%BE%D1%80%D0%BE%D0%B7%20-%20Chlorosis/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbarium.info/plantarium.info/%D0%A5%D0%BB%D0%BE%D1%80%D0%BE%D0%B7%20-%20Chlorosis/%D0%9C%D1%8F%D1%82%D0%B0%20%D0%B4%D1%83%D1%88%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Mentha%20suaveolens/album.rss" title="Мята душистая - Mentha suaveolens" thumbnail="https://herbarium.info/plantarium.info/%D0%A5%D0%BB%D0%BE%D1%80%D0%BE%D0%B7%20-%20Chlorosis/%D0%9C%D1%8F%D1%82%D0%B0%20%D0%B4%D1%83%D1%88%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Mentha%20suaveolens/thumbs/0DSC09420.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
