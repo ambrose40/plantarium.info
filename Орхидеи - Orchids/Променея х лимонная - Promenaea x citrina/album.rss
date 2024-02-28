@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Променея х лимонная - Promenaea x citrina</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/</jalbum:absolutePath>
+        <item>
+            <title>DSC09065</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/slides/DSC09065.html</link>
+            <pubDate>Sat, 07 Oct 2017 22:53:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/thumbs/DSC09065.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/slides/DSC09065.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sat, 15 Jul 2017 16:03:37 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC09065.webp</guid>
+        </item>
+        <item>
+            <title>DSC09066</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/slides/DSC09066.html</link>
+            <pubDate>Sat, 07 Oct 2017 22:53:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/thumbs/DSC09066.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%9F%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B5%D1%8F%20%D1%85%20%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F%20-%20Promenaea%20x%20citrina/slides/DSC09066.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sat, 15 Jul 2017 16:03:47 +0300" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC09066.webp</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Целогина Мура - Coelogyne mooreana</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%A6%D0%B5%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%9C%D1%83%D1%80%D0%B0%20-%20Coelogyne%20mooreana/</jalbum:absolutePath>
+        <item>
+            <title>DSC05111</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%A6%D0%B5%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%9C%D1%83%D1%80%D0%B0%20-%20Coelogyne%20mooreana/slides/DSC05111.html</link>
+            <pubDate>Sat, 11 Mar 2017 22:14:46 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%A6%D0%B5%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%9C%D1%83%D1%80%D0%B0%20-%20Coelogyne%20mooreana/thumbs/DSC05111.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%A6%D0%B5%D0%BB%D0%BE%D0%B3%D0%B8%D0%BD%D0%B0%20%D0%9C%D1%83%D1%80%D0%B0%20-%20Coelogyne%20mooreana/slides/DSC05111.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:37:44 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05111.webp</guid>
+        </item>
+    </channel>
+</rss>
