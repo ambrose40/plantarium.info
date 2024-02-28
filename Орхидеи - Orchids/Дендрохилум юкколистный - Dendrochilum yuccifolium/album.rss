@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Дендрохилум юкколистный - Dendrochilum yuccifolium</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/</jalbum:absolutePath>
+        <item>
+            <title>DSC01973</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/slides/DSC01973.html</link>
+            <pubDate>Tue, 01 May 2018 09:39:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/thumbs/DSC01973.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/slides/DSC01973.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sun, 11 Mar 2018 14:57:36 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC01973.webp</guid>
+        </item>
+        <item>
+            <title>DSC01974</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/slides/DSC01974.html</link>
+            <pubDate>Tue, 01 May 2018 09:39:30 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/thumbs/DSC01974.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9E%D1%80%D1%85%D0%B8%D0%B4%D0%B5%D0%B8%20-%20Orchids/%D0%94%D0%B5%D0%BD%D0%B4%D1%80%D0%BE%D1%85%D0%B8%D0%BB%D1%83%D0%BC%20%D1%8E%D0%BA%D0%BA%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20-%20Dendrochilum%20yuccifolium/slides/DSC01974.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sun, 11 Mar 2018 14:57:43 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC01974.webp</guid>
+        </item>
+    </channel>
+</rss>
