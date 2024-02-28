@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Кротон - Croton sp</title>
+   	<link>../../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5%20-%20Euphorbiaceae/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%BD%20-%20Croton%20sp/</jalbum:absolutePath>
+        <item>
+            <title>IMG_7062</title>
+            <link>https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5%20-%20Euphorbiaceae/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%BD%20-%20Croton%20sp/slides/IMG_7062.html</link>
+            <pubDate>Sun, 01 Feb 2015 22:29:58 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5%20-%20Euphorbiaceae/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%BD%20-%20Croton%20sp/thumbs/IMG_7062.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B5%20-%20Euphorbiaceae/%D0%9A%D1%80%D0%BE%D1%82%D0%BE%D0%BD%20-%20Croton%20sp/slides/IMG_7062.webp" width="1224" height="1224"/>
+            <jalbum:exif originalDate="Tue, 20 Jan 2015 14:27:11 +0200" cameraMake="Apple" cameraModel="iPhone 6"/>
+            <guid isPermaLink="false">slides/IMG_7062.webp</guid>
+        </item>
+    </channel>
+</rss>
