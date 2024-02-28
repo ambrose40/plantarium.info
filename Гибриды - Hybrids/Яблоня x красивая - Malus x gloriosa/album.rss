@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Яблоня x красивая - Malus x gloriosa</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/</jalbum:absolutePath>
+        <item>
+            <title>DSC02151</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/slides/DSC02151.html</link>
+            <pubDate>Fri, 02 Sep 2016 01:11:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/thumbs/DSC02151.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/slides/DSC02151.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2016 17:21:14 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02151.webp</guid>
+        </item>
+        <item>
+            <title>DSC02152</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/slides/DSC02152.html</link>
+            <pubDate>Fri, 02 Sep 2016 01:11:37 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/thumbs/DSC02152.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D1%8F%20x%20%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0%D1%8F%20-%20Malus%20x%20gloriosa/slides/DSC02152.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Mon, 25 Jul 2016 17:21:24 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02152.webp</guid>
+        </item>
+    </channel>
+</rss>
