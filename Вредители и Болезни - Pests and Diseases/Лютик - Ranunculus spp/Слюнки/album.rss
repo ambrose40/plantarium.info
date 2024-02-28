@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Слюнки</title>
+   	<link>../../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%92%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%20-%20Pests%20and%20Diseases/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA%20-%20Ranunculus%20spp/%D0%A1%D0%BB%D1%8E%D0%BD%D0%BA%D0%B8/</jalbum:absolutePath>
+        <item>
+            <title>DSC00591</title>
+            <link>https://herbarium.info/plantarium.info/%D0%92%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%20-%20Pests%20and%20Diseases/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA%20-%20Ranunculus%20spp/%D0%A1%D0%BB%D1%8E%D0%BD%D0%BA%D0%B8/slides/DSC00591.html</link>
+            <pubDate>Thu, 03 Jul 2014 00:40:19 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%92%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%20-%20Pests%20and%20Diseases/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA%20-%20Ranunculus%20spp/%D0%A1%D0%BB%D1%8E%D0%BD%D0%BA%D0%B8/thumbs/DSC00591.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%92%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%B8%20-%20Pests%20and%20Diseases/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA%20-%20Ranunculus%20spp/%D0%A1%D0%BB%D1%8E%D0%BD%D0%BA%D0%B8/slides/DSC00591.webp" width="1280" height="960"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 19:49:20 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00591.webp</guid>
+        </item>
+    </channel>
+</rss>
