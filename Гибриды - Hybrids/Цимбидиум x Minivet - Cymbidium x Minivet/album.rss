@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цимбидиум x Minivet - Cymbidium x Minivet</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20Minivet%20-%20Cymbidium%20x%20Minivet/</jalbum:absolutePath>
+        <item>
+            <title>DSC04925</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20Minivet%20-%20Cymbidium%20x%20Minivet/slides/DSC04925.html</link>
+            <pubDate>Sat, 11 Mar 2017 22:14:46 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20Minivet%20-%20Cymbidium%20x%20Minivet/thumbs/DSC04925.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20Minivet%20-%20Cymbidium%20x%20Minivet/slides/DSC04925.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 13:55:08 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC04925.webp</guid>
+        </item>
+    </channel>
+</rss>

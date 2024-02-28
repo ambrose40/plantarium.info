@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Цимбидиум x гибридный - Cymbidium x hybrida</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/</jalbum:absolutePath>
+        <item>
+            <title>DSC05057</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/slides/DSC05057.html</link>
+            <pubDate>Thu, 02 Jan 2020 08:48:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/thumbs/DSC05057.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/slides/DSC05057.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:27:00 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05057.webp</guid>
+        </item>
+        <item>
+            <title>DSC05058</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/slides/DSC05058.html</link>
+            <pubDate>Thu, 02 Jan 2020 08:48:17 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/thumbs/DSC05058.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%A6%D0%B8%D0%BC%D0%B1%D0%B8%D0%B4%D0%B8%D1%83%D0%BC%20x%20%D0%B3%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Cymbidium%20x%20hybrida/slides/DSC05058.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sat, 04 Mar 2017 14:27:05 +0200" cameraMake="SONY" cameraModel="DSC-HX90"/>
+            <guid isPermaLink="false">slides/DSC05058.webp</guid>
+        </item>
+    </channel>
+</rss>
