@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Адиантум стоповидный - Adiantum pedatum</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5%20-%20Ferns/%D0%90%D0%B4%D0%B8%D0%B0%D0%BD%D1%82%D1%83%D0%BC%20%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Adiantum%20pedatum/</jalbum:absolutePath>
+        <item>
+            <title>DSC03352</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5%20-%20Ferns/%D0%90%D0%B4%D0%B8%D0%B0%D0%BD%D1%82%D1%83%D0%BC%20%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Adiantum%20pedatum/slides/DSC03352.html</link>
+            <pubDate>Thu, 25 Feb 2016 14:34:04 +0200</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5%20-%20Ferns/%D0%90%D0%B4%D0%B8%D0%B0%D0%BD%D1%82%D1%83%D0%BC%20%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Adiantum%20pedatum/thumbs/DSC03352.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5%20-%20Ferns/%D0%90%D0%B4%D0%B8%D0%B0%D0%BD%D1%82%D1%83%D0%BC%20%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Adiantum%20pedatum/slides/DSC03352.webp" width="1024" height="768"/>
+            <jalbum:exif originalDate="Tue, 22 Jun 2010 14:06:08 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC03352.webp</guid>
+        </item>
+    </channel>
+</rss>
