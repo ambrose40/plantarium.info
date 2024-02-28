@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Кизил обыкновенный - Cornus mas</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/</jalbum:absolutePath>
+        <item>
+            <title>DSC02088</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/slides/DSC02088.html</link>
+            <pubDate>Sun, 26 Apr 2015 21:11:28 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/thumbs/DSC02088.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/slides/DSC02088.webp" width="1280" height="960"/>
+            <jalbum:exif originalDate="Sat, 25 Apr 2015 13:09:27 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC02088.webp</guid>
+        </item>
+        <item>
+            <title>DSC02088_</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/slides/DSC02088_.html</link>
+            <pubDate>Sun, 26 Apr 2015 21:11:28 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/thumbs/DSC02088_.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9A%D0%B8%D0%B7%D0%B8%D0%BB%20%D0%BE%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20-%20Cornus%20mas/slides/DSC02088_.webp" width="1280" height="461"/>
+            <guid isPermaLink="false">slides/DSC02088_.webp</guid>
+        </item>
+    </channel>
+</rss>
