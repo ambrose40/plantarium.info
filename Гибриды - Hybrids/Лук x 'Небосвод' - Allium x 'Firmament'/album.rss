@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лук x &apos;Небосвод&apos; - Allium x &apos;Firmament&apos;</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/</jalbum:absolutePath>
+        <item>
+            <title>DSC04162</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/slides/DSC04162.html</link>
+            <pubDate>Thu, 02 Jul 2015 02:11:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/thumbs/DSC04162.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/slides/DSC04162.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sun, 28 Jun 2015 14:25:49 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC04162.webp</guid>
+        </item>
+        <item>
+            <title>DSC04163</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/slides/DSC04163.html</link>
+            <pubDate>Thu, 02 Jul 2015 02:11:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/thumbs/DSC04163.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%27%D0%9D%D0%B5%D0%B1%D0%BE%D1%81%D0%B2%D0%BE%D0%B4%27%20-%20Allium%20x%20%27Firmament%27/slides/DSC04163.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sun, 28 Jun 2015 14:25:58 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC04163.webp</guid>
+        </item>
+    </channel>
+</rss>

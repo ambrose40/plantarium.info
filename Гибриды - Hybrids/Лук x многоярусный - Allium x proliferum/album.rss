@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Лук x многоярусный - Allium x proliferum</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/</jalbum:absolutePath>
+        <item>
+            <title>DSC03750</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/slides/DSC03750.html</link>
+            <pubDate>Wed, 23 Jun 2021 17:23:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/thumbs/DSC03750.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/slides/DSC03750.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sun, 20 Jun 2021 15:39:20 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC03750.webp</guid>
+        </item>
+        <item>
+            <title>DSC03751</title>
+            <link>https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/slides/DSC03751.html</link>
+            <pubDate>Wed, 23 Jun 2021 17:23:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/thumbs/DSC03751.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%93%D0%B8%D0%B1%D1%80%D0%B8%D0%B4%D1%8B%20-%20Hybrids/%D0%9B%D1%83%D0%BA%20x%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%8F%D1%80%D1%83%D1%81%D0%BD%D1%8B%D0%B9%20-%20Allium%20x%20proliferum/slides/DSC03751.webp" width="2000" height="1500"/>
+            <jalbum:exif originalDate="Sun, 20 Jun 2021 15:39:37 +0300" cameraMake="SONY" cameraModel="DSC-HX90V"/>
+            <guid isPermaLink="false">slides/DSC03751.webp</guid>
+        </item>
+    </channel>
+</rss>
