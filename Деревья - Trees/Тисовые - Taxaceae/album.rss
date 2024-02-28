@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тисовые - Taxaceae</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%A2%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taxaceae/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%A2%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taxaceae/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/album.rss" title="Тис x средний - Taxus x media &apos;Hickskii&apos;" thumbnail="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%A2%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taxaceae/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/thumbs/DSC00022.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    	<jalbum:link rel="sub" href="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%A2%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taxaceae/%D0%A2%D0%B8%D1%81%20%D1%8F%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Taxus%20baccata/album.rss" title="Тис ягодный - Taxus baccata" thumbnail="https://herbarium.info/plantarium.info/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F%20-%20Trees/%D0%A2%D0%B8%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Taxaceae/%D0%A2%D0%B8%D1%81%20%D1%8F%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20-%20Taxus%20baccata/thumbs/DSC06760.webp" thumbnailWidth="512" thumbnailHeight="410" />
+    </channel>
+</rss>
