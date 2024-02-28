@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Мятлик луговой - Poa pratensis</title>
+   	<link>../../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Poaceae/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%20%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9%20-%20Poa%20pratensis/</jalbum:absolutePath>
+        <item>
+            <title>DSC02910</title>
+            <link>https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Poaceae/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%20%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9%20-%20Poa%20pratensis/slides/DSC02910.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Poaceae/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%20%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9%20-%20Poa%20pratensis/thumbs/DSC02910.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Poaceae/%D0%9C%D1%8F%D1%82%D0%BB%D0%B8%D0%BA%20%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9%20-%20Poa%20pratensis/slides/DSC02910.webp" width="1024" height="768"/>
+            <jalbum:exif originalDate="Wed, 16 Jun 2010 19:10:23 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC02910.webp</guid>
+        </item>
+    </channel>
+</rss>
