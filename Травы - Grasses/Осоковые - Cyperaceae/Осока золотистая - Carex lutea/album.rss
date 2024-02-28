@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Осока золотистая - Carex lutea</title>
+   	<link>../../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/</jalbum:absolutePath>
+        <item>
+            <title>DSC03735</title>
+            <link>https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/slides/DSC03735.html</link>
+            <pubDate>Tue, 16 Jun 2015 02:04:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/thumbs/DSC03735.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/slides/DSC03735.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:35:34 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03735.webp</guid>
+        </item>
+        <item>
+            <title>DSC03736</title>
+            <link>https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/slides/DSC03736.html</link>
+            <pubDate>Tue, 16 Jun 2015 02:04:24 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/thumbs/DSC03736.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%A2%D1%80%D0%B0%D0%B2%D1%8B%20-%20Grasses/%D0%9E%D1%81%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Cyperaceae/%D0%9E%D1%81%D0%BE%D0%BA%D0%B0%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F%20-%20Carex%20lutea/slides/DSC03736.webp" width="1500" height="2000"/>
+            <jalbum:exif originalDate="Sun, 14 Jun 2015 09:35:45 +0300" cameraMake="SONY" cameraModel="DSC-HX50"/>
+            <guid isPermaLink="false">slides/DSC03736.webp</guid>
+        </item>
+    </channel>
+</rss>
