@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ольха чёрная - Alnus glutinosa</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/</jalbum:absolutePath>
+        <item>
+            <title>DSC00043</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/slides/DSC00043.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/thumbs/DSC00043.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/slides/DSC00043.webp" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Apr 2012 15:38:57 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00043.webp</guid>
+        </item>
+        <item>
+            <title>DSC00044</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/slides/DSC00044.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:16 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/thumbs/DSC00044.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20-%20Alnus%20glutinosa/slides/DSC00044.webp" width="768" height="1024"/>
+            <jalbum:exif originalDate="Sat, 28 Apr 2012 15:39:05 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00044.webp</guid>
+        </item>
+    </channel>
+</rss>

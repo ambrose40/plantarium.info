@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Ольха серая, белая, Елоха - Alnus incana</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/</jalbum:absolutePath>
+        <item>
+            <title>DSC00381</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/slides/DSC00381.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/thumbs/DSC00381.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/slides/DSC00381.webp" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 14 May 2012 14:03:11 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00381.webp</guid>
+        </item>
+        <item>
+            <title>DSC00382</title>
+            <link>https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/slides/DSC00382.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:17 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/thumbs/DSC00382.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%9F%D0%BE%D1%87%D0%BA%D0%B8%20-%20Leaf%20buds/%D0%9E%D0%BB%D1%8C%D1%85%D0%B0%20%D1%81%D0%B5%D1%80%D0%B0%D1%8F%2C%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%2C%20%D0%95%D0%BB%D0%BE%D1%85%D0%B0%20-%20Alnus%20incana/slides/DSC00382.webp" width="1024" height="768"/>
+            <jalbum:exif originalDate="Mon, 14 May 2012 14:03:15 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00382.webp</guid>
+        </item>
+    </channel>
+</rss>
