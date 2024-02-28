@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Тис x средний - Taxus x media &apos;Hickskii&apos;</title>
+   	<link>../..</link>
+        <generator>jAlbum 31.1</generator>
+   		<description></description>
+        <jalbum:absolutePath>https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/</jalbum:absolutePath>
+        <item>
+            <title>DSC00022</title>
+            <link>https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/slides/DSC00022.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/thumbs/DSC00022.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/slides/DSC00022.webp" width="1280" height="960"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 13:38:07 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00022.webp</guid>
+        </item>
+        <item>
+            <title>DSC00023</title>
+            <link>https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/slides/DSC00023.html</link>
+            <pubDate>Tue, 08 Apr 2014 02:02:18 +0300</pubDate>
+            <description>                               </description>
+            <media:description type="html">                               </media:description>
+            <media:thumbnail url="https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/thumbs/DSC00023.webp" width="512" height="410"/>
+            <media:content type="image/jpeg" url="https://herbarium.info/plantarium.info/%D0%92%D0%B5%D1%87%D0%BD%D0%BE%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5%20-%20Evergreen/%D0%A2%D0%B8%D1%81%20x%20%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20-%20Taxus%20x%20media%20%27Hickskii%27/slides/DSC00023.webp" width="1280" height="960"/>
+            <jalbum:exif originalDate="Sat, 12 Oct 2013 13:38:11 +0300" cameraMake="SONY" cameraModel="DSC-T30"/>
+            <guid isPermaLink="false">slides/DSC00023.webp</guid>
+        </item>
+    </channel>
+</rss>
